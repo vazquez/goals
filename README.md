@@ -7,3 +7,10 @@ I read a really great article the other day, this is an excerpt:
 
 This is where I start.
 
+## Table of Contents
+1. [Hour Of Design](#command-line)
+2. [Speaking](#speaking)
+3. [Animation](#animation)
+4. [Copywriting](#copywriting)
+5. [React and JavaScript](#react-and-javascript)
+6. [User Testing](#user-testing)
