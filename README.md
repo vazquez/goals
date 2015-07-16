@@ -34,3 +34,31 @@ So, in a nutshell, I want to help create an open design culture at Mozilla, ment
 **Date:** December 31st, 2015
 
 This will be an ongoing goal. I aim to air [one episode every week](https://www.youtube.com/channel/UC9MJ2wGfJ_7mbLN6rXjWztA) right through the end of 2015. I will analyze my audience and adjust my material accordingly.
+
+### Progress
+
+As of July 16th, 2015, I have aired 5 episodes :).
+
+## Speaking
+
+If anyone knows me, they know I talk a lot. I like sharing what I know and teaching others. At the beginning of the year, I became really interested in sharing my passion with others. I am a firm believer that everyone is a designer. We all make decisions, we all iterate, and we all create. As such, we need tools in our arsenal to help us elevate the practice of design.
+
+My high-level goal is to speak about UI Design and Design Principles at conferences.
+
+### Why?
+
+- Helps me organize and present my thoughts.
+- Helps me become more of – and establish my reputation – as a thought leader.
+- Allows me to bring back learned material to my team so we can collectively level up.
+
+### By When
+
+**Date:** December 31st, 2015
+**Number of talks:** By the date above, I must have accepted or delivered at least 2 talks a design and development conferences.
+
+### Progress
+
+Wohoo! I applied to speak at [CascadiaFest](http://2015.cascadiajs.com) and my proposal got accepted! On July 8th, 2015, I gave a talk on Microinteractions to a couple hundred developers, designers, and web enthusiasts.
+
+I have submitted Call For Papers to several conferences, I'm hopeful to knock this goal out of the park!
+
