@@ -7,7 +7,7 @@ I read a really great article the other day, this is an excerpt:
 
 This is where I start.
 
-## Table of Contents
+## Table of Contents <small style="font-size: 12px;">in no particular order</small>
 1. [Hour Of Design](#command-line)
 2. [Speaking](#speaking)
 3. [Animation](#animation)
