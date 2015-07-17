@@ -41,7 +41,7 @@ As of July 16th, 2015, I have aired 5 episodes :).
 
 #### Journal
 
-[Read the Journal](hourofdesign/journal.md) for a more in-depth look at what I'm doing to mark this goal done.
+[Read the Hour of Design Journal](hourofdesign/journal.md) for a more in-depth look at what I'm doing to mark this goal done.
 
 ## Speaking
 
@@ -68,7 +68,7 @@ I have submitted Call For Papers to several conferences, I'm hopeful to knock th
 
 #### Journal
 
-[Read the Journal](speaking/journal.md) for a more in-depth look at what I'm doing to mark this goal done.
+[Read the Speaking Journal](speaking/journal.md) for a more in-depth look at what I'm doing to mark this goal done.
 
 ## Animation
 
@@ -87,7 +87,7 @@ Maybe my end result could be something Halloween related!
 
 #### Journal
 
-[Read the Journal](animation/journal.md) for a more in-depth look at what I'm doing to mark this goal done.
+[Read the Animation Journal](animation/journal.md) for a more in-depth look at what I'm doing to mark this goal done.
 
 ## Copywriting
 
