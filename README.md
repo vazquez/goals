@@ -41,7 +41,7 @@ As of July 16th, 2015, I have aired 5 episodes :).
 
 #### Journal
 
-[Read the Journal](speaking-journal) for a more in-depth look at what I'm doing to mark this goal done.
+[Read the Journal](hourofdesign/journal.md) for a more in-depth look at what I'm doing to mark this goal done.
 
 ## Speaking
 
@@ -68,8 +68,29 @@ I have submitted Call For Papers to several conferences, I'm hopeful to knock th
 
 #### Journal
 
-[Read the Journal](speaking-journal) for a more in-depth look at what I'm doing to mark this goal done.
+[Read the Journal](speaking/journal.md) for a more in-depth look at what I'm doing to mark this goal done.
 
 ## Animation
 
+Motion, where smiles happen and surprise is born. Over the years, I've gotten comfortable in designing interfaces in various software programs. However, I have never approached the field motion design, perhaps out of fear. Whenever I look at motion studies or motion prototypes my heart always starts beating faster. It is so exciting to be able to prototype and visualize a concept. As such, I have endeavoured this year to start animating something. It will be very simple at the beginning, but I hope to be able to get to a point where I can animate an design interaction.
 
+#### Why
+
+- To improve the work within the Mozilla Foundatoin through microinteractions and higher fidelity designs.
+- To get uncomfortable, and try something new.
+
+####  By When
+
+**Date:** October 31st, 2015
+
+Maybe my end result could be something Halloween related!
+
+#### Journal
+
+[Read the Journal](animation/journal.md) for a more in-depth look at what I'm doing to mark this goal done.
+
+## Copywriting
+
+## React and JavaScript
+
+## User Testing
