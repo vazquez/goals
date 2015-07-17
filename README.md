@@ -43,6 +43,9 @@ As of July 16th, 2015, I have aired 5 episodes :).
 
 **[Read the Hour of Design Journal](hourofdesign/journal.md)** for a more in-depth look at what I'm doing to mark this goal done.
 
+===  
+
+
 ## Speaking
 
 If anyone knows me, they know I talk a lot. I like sharing what I know and teaching others. At the beginning of the year, I became really interested in sharing my passion with others. I am a firm believer that everyone is a designer. We all make decisions, we all iterate, and we all create. As such, we need tools in our arsenal to help us elevate the practice of design.
@@ -69,6 +72,9 @@ I have submitted Call For Papers to several conferences, I'm hopeful to knock th
 #### Journal
 
 **[Read the Speaking Journal](speaking/journal.md)** for a more in-depth look at what I'm doing to mark this goal done.
+
+===  
+
 
 ## Animation
 
