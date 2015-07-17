@@ -60,7 +60,8 @@ My high-level goal is to speak about UI Design and Design Principles at conferen
 
 #### By When
 
-**Date:** December 31st, 2015
+**Date:** December 31st, 2015  
+
 **Number of talks:** By the date above, I must have accepted or delivered at least 2 talks a design and development conferences.
 
 #### Milestones
