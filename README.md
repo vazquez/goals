@@ -98,6 +98,24 @@ Maybe my end result could be something Halloween related!
 
 ## Copywriting
 
+Copywriting is essential in product design. Take a look around the Web and visit your favourite websites. They offer concise copywriting, clear messaging, and hassle-free communication. My style of writing is more... let's go with lengthy. I would be well-suited for article writing, magazines, and longread essays. Alas, I love interfaces; as such I need to improve my writing skills to better enhance them.
+
+#### Why
+
+- To speed up my design process
+- To make the UI I design clearer and more communicative
+- To improve this specific part of my skillset
+- To say more with less
+
+#### By When
+
+**Date:** September 30th, 2015
+
+#### Journal
+
+**[Read the Copywriting Journal](copywriting/journal.md)** for a more in-depth look at what I'm doing to mark this goal done.
+
+
 ## React and JavaScript
 
 ## User Testing
