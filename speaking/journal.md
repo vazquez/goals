@@ -8,3 +8,4 @@
 | July 1 2015 | Got accepted to code.talks! Unfortunately had to rescind my proposal as there was no financial support for speakers.
 | July 8th 2015 | Gave a talk on the Power of Emotion and Delight
 | July 1 - 15 2015 | Applied to speak at UXDC and OSF Conference.
+| Aug 5 2015 | Did not get accepted to Open Source Feelings (OSF) Conference. I will try again next year!
