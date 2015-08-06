@@ -9,3 +9,4 @@
 | July 8th 2015 | Gave a talk on the Power of Emotion and Delight
 | July 1 - 15 2015 | Applied to speak at UXDC and OSF Conference.
 | Aug 5 2015 | Did not get accepted to Open Source Feelings (OSF) Conference. I will try again next year!
+| Aug 6 2015 | Didn't get it for UXDC unfortunately. Record amount of speaking submissions made the selection process hard.
