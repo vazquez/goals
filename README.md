@@ -7,6 +7,8 @@ I read a really great article the other day, this is an excerpt:
 
 This is where I start.
 
+ps. Want to see other designers' goals in the open? Check out [Jess Klein](https://github.com/iamjessklein/goals).
+
 ## Table of Contents <small style="font-size: 12px;">in no particular order</small>
 1. [Hour Of Design](#hour-of-design)
 2. [Speaking](#speaking)
