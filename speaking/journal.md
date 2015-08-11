@@ -11,3 +11,4 @@
 | Aug 5 2015 | Did not get accepted to Open Source Feelings (OSF) Conference. I will try again next year!
 | Aug 6 2015 | Didn't get it for UXDC unfortunately. Record amount of speaking submissions made the selection process hard.
 | Aug 6 2015 | Applied to speak at Forward Web Technology Summit 2016
+| Aug 11 2015 | Applied to speak at O'Reilly Design conference, but didn't make the cut. It was a tough conference to get into, I admit. But always worth the try!
