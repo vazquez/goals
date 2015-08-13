@@ -1,5 +1,5 @@
 # Goals
-In the spirit of open everything, I want to share the goals I have set for myself with the help of [Cassie McDaniel](https://twitter.com/cassiemc). These long-term goals will inform how I wish to grow as a designer this year. 
+In the spirit of open everything, I want to share the goals I have set for myself with the help of [Cassie McDaniel](https://twitter.com/cassiemc). These long-term goals will inform how I wish to grow as a designer this year.
 
 I read a really great article the other day, this is an excerpt:
 
@@ -18,8 +18,8 @@ ps. Want to see other designers' goals in the open? Check out [Jess Klein](https
 6. [User Testing](#user-testing)
 
 ## Hour of Design
-The process of Design has historically been sheltered from the public. As such, we have lost a lot of visibility in regards to what it takes to go from empty canvas to pixel-perfect design. I decided to create a [YouTube Live Stream series](https://www.youtube.com/channel/UC9MJ2wGfJ_7mbLN6rXjWztA) titled The Hour of Design. This was inspired by [Mike Conley's](https://twitter.com/mike_conley) excellent [Joy of Coding](http://mikeconley.ca/blog/category/technology/livecoding/) series. During my episodes, I share my screen and design live, with everyone as the audience. 
- 
+The process of Design has historically been sheltered from the public. As such, we have lost a lot of visibility in regards to what it takes to go from empty canvas to pixel-perfect design. I decided to create a [YouTube Live Stream series](https://www.youtube.com/channel/UC9MJ2wGfJ_7mbLN6rXjWztA) titled The Hour of Design. This was inspired by [Mike Conley's](https://twitter.com/mike_conley) excellent [Joy of Coding](http://mikeconley.ca/blog/category/technology/livecoding/) series. During my episodes, I share my screen and design live, with everyone as the audience.
+
 #### Why?
 
 The purpose of this event spans several objectives:
@@ -28,7 +28,7 @@ The purpose of this event spans several objectives:
  - Open our design practice to individuals eager to design but unsure of where to start / what design is actually comprised of.
  - An opportunity to verbalize design decisions.
  - Share our work to the whole world!
- 
+
 So, in a nutshell, I want to help create an open design culture at Mozilla, mentor others in design, and personally to help me better verbalize my design decisions.
 
 #### By When
@@ -119,5 +119,26 @@ Copywriting is essential in product design. Take a look around the Web and visit
 
 
 ## React and JavaScript
+
+They say React is the hottest thing since... well, Angular. However, that's not why I want to learn React. At Mozilla, we've made an investment on building our products with React. Mozilla Teach, Mozilla Advocacy, Mozilla Fundraising, and even our Mozilla Webmaker App are all written in React. As you can imagine, I want to be able to provide as much front-end support to my team as possible. I am well versed in front-end languages, just not this specific framework.
+
+#### Why
+
+- To learn a framework that is highly popular.
+- Therefore, to contribute to other open source projects.
+- To take on front-end development tasks on my team.
+- To never stop coding!
+
+#### Deliverable
+
+I decided to redesign my website using React as its framework. Wish me luck!
+
+#### By When
+
+**Date:** December 31st, 2015
+
+#### Journal
+
+**[Read the React and JavaScript Journal](react-and-javascript/journal.md)** for a more in-depth look at what I'm doing to mark this goal done.
 
 ## User Testing
