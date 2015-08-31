@@ -12,3 +12,5 @@
 | Aug 6 2015 | Didn't get it for UXDC unfortunately. Record amount of speaking submissions made the selection process hard.
 | Aug 6 2015 | Applied to speak at Forward Web Technology Summit 2016
 | Aug 11 2015 | Applied to speak at O'Reilly Design conference, but didn't make the cut. It was a tough conference to get into, I admit. But always worth the try!
+| Aug 12 2015 | I'm afraid I didn't get accepted to speak at Midwest UX Conference.
+| Sep 1 2015 | I've been invited to give a guest lecture to George Brown Design students! The topic I was asked to speak about was wicked problems. Preparing for this lecture was challenging. Reading, researching, and writing were all on high alert. It turns out having material for 3-hours' worth of lecture is not easy. I now know how my profressors felt like!
